@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Centro Paulista<br>🤝 I’m looking for help with Javascript and React<br>🌱 I’m currently learning React <br>📫 how to find me carloshenriquesouza_20@outlook.com
+🔭 I’m currently working on Centro Paulista<br>🤝 I’m looking for help with Javascript and React<br>🌱 I’m currently learning React 
 
 
 ## 🌐 Socials:
